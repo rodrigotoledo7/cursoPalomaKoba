@@ -1,3 +1,6 @@
 [submodule "git_teste"]
 	path = git_teste
 	url = git@github.com:rodrigotoledo7/git_test1.git
+[submodule "fds2"]
+	path = fds2
+	url = git@github.com:rodrigotoledo7/fds2.git
